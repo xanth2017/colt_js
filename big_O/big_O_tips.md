@@ -44,4 +44,4 @@
 
 ### The logarithm of a number roughly measures the number of times you can divide that number by 2 before you get a value that's less than or equal to one.
 
-![Logarithms Complexity Graph](/logarithm_complexity.png)
+![Logarithms Complexity Graph](logarithm_complexity.png)
