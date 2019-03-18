@@ -1,6 +1,6 @@
-#Big O tips
+# Big O tips
 
-##Simplifying Big O Expressions (Time complexity)
+## Simplifying Big O Expressions (Time complexity)
 
 > When determining the time complexity of an algorithm, there are some helpful rule of thumbs for big O expressions.
 >These rules of thumb are consequences of the definition of big O notation.
@@ -37,6 +37,11 @@
 * Reference types are generally O(n), where n is the length (for arrays)
   or the number of keys (for objects)
 
-## Logarithms
+## Logarithms complexity
 
 > log₂(value) = exponent ---> 2<sup>exponent</sup> = value
+> In this we can take log === log<sub>2</sub>
+
+### The logarithm of a number roughly measures the number of times you can divide that number by 2 before you get a value that's less than or equal to one.
+
+![Logarithms Complexity Graph](/logarithm_complexity.png)
